@@ -1,0 +1,91 @@
+baseurl      = "localhost"
+title        = "palabras"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+canonifyURLs = true
+enableEmoji     = true
+
+# googleAnalytics = ""
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+
+# Social icons
+[[params.social]]
+name = "twitter"
+url  = "https://twitter.com/leiluspocus"
+
+[[params.social]]
+name = "github"
+url  = "https://github.com/leiluspocus"
+
+[[params.social]]
+name = "linkedin"
+url  = "https://www.linkedin.com/lailatrmouh"
+
+[[params.social]]
+name = "stackoverflow"
+url  = "https://www.stackoverflow.com/"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Subtitle for home
+  homeSubtitle = "Laïla ATRMOUH"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Metadata mostly used in document's head
+  description = "Blog technique de Laïla ATRMOUH, développeuse fullstack"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[author]
+  name = "Laïla ATRMOUH"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "palabras"
+    subtitle = "Thoughts about our technical world today"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "palabras"
+      logoHomeLink = "/" 
+
+  [languages.fr]
+    title = "palabras"
+    subtitle = "Des pensées techniques sur le monde du dév aujourd'hui"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Lire plus d'articles"
+
+    [languages.fr.params.logo]
+      logoText = "palabras"
+      logoHomeLink = "/" 
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
