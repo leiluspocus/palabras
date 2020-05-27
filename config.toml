@@ -1,4 +1,4 @@
-baseurl      = "https://stupefied-bose-cb9c07.netlify.app/"
+baseurl      = "https://leiluspocus.netlify.app/"
 title        = "palabras"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -67,7 +67,7 @@ url  = "https://www.stackoverflow.com/"
   [languages.en]
     title = "Hi there !"
     subtitle = "Thoughts and discoveries about our technical world today"
-    homeSubtitle = "I'm Laïla, I'm a Software Engineer based in Paris, France. I love coding, learning and cute animals."
+    homeSubtitle = "I write code for a living. I'm also a Cookie Monster."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -89,7 +89,14 @@ url  = "https://www.stackoverflow.com/"
       logoHomeLink = "/" 
 
   # And you can even create generic menu
+
+[menu]
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "💡TIL"
+    name       = "TIL"
+    url        = "/tags/til"
