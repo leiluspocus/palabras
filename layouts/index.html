@@ -1,0 +1,35 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            {{ if .Site.Params.portrait.path }}
+               <img src="{{ .Site.Params.portrait.path }}" class="circle" alt="{{ .Site.Params.portrait.alt }}" />
+            {{ end }}
+
+            <h1>{{ .Site.Title }}</h1>
+            <p>
+            {{- with .Site.Params.homeSubtitle1 }}
+                {{.}}
+            {{- end }}
+            {{- with .Site.Params.homeSubtitle2 }}
+                {{.}}
+            {{- end }}
+            {{- with .Site.Params.homeSubtitle3 }}
+                {{.}}
+            {{- end }}
+            </p>
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+        <div style="text-align: left;">
+            <h2>My steps on the web</h2>
+            <ul>
+                <li><a href="https://www.24joursdeweb.fr/2017/lagilisation-dune-entreprise-comment-apporter-le-changement/" target="_blank" rel="noopener">24 jours du web - L'agilité : Comment apporter le changement ?</a></li>
+                <li><a href="https://medium.com/@leiluspocus" target="_blank" rel="noopener">Medium</a></li>
+                <li><a href="https://www.bureauxapartager.com/blog/author/laila" target="_blank" rel="noopener">Blog - Bureaux A Partager</a></li>
+            </ul>
+        </div>
+    </main>
+{{ end }}

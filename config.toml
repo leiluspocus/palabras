@@ -67,7 +67,9 @@ url  = "https://www.stackoverflow.com/"
   [languages.en]
     title = "Hi there !"
     subtitle = "Thoughts and discoveries about our technical world today"
-    homeSubtitle = "I write code for a living. I'm also a Cookie Monster."
+    homeSubtitle1 = "I'm Laïla, I'm 29 and I'm a software developer."
+    homeSubtitle2 = "I love coding, learning and kicking patriarchy."
+    homeSubtitle3 = "I write thoughts in this blog."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -95,8 +97,3 @@ url  = "https://www.stackoverflow.com/"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-
-  [[menu.main]]
-    identifier = "💡TIL"
-    name       = "TIL"
-    url        = "/tags/til"
