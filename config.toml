@@ -47,7 +47,11 @@ url  = "https://www.stackoverflow.com/"
   description = "Blog technique de Laïla ATRMOUH, développeuse fullstack"
   keywords = "homepage, blog"
   images = [""]
-
+  
+  [params.portrait]
+    path = "https://placekitten.com/300/300"
+    alt = "Cats"
+    
   # Default theme "light" or "dark"
   defaultTheme = "light"
 
