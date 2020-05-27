@@ -11,7 +11,7 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
-disqusShortname = "palabras-1"
+# disqusShortname = "palabras-1"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
