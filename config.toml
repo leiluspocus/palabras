@@ -40,9 +40,6 @@ url  = "https://www.stackoverflow.com/"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  # Subtitle for home
-  homeSubtitle = "Laïla ATRMOUH"
-
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
@@ -64,8 +61,9 @@ url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
-    title = "palabras"
-    subtitle = "Thoughts about our technical world today"
+    title = "Hi there !"
+    subtitle = "Thoughts and discoveries about our technical world today"
+    homeSubtitle = "I'm Laïla, I'm a Software Engineer based in Paris, France. I love coding, learning and cute animals."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -75,8 +73,9 @@ url  = "https://www.stackoverflow.com/"
       logoHomeLink = "/" 
 
   [languages.fr]
-    title = "palabras"
-    subtitle = "Des pensées techniques sur le monde du dév aujourd'hui"
+    title = "Coucou !"
+    subtitle = "Pensées et découvertes du monde du code aujourd'hui"
+    homeSubtitle = "Je suis Laïla, je suis une développeuse web vivant à Paris. J'aime coder, apprendre et les animaux mignons."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Lire plus d'articles"
