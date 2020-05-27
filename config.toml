@@ -67,8 +67,8 @@ url  = "https://www.stackoverflow.com/"
   [languages.en]
     title = "Hi there !"
     subtitle = "Thoughts and discoveries about our technical world today"
-    homeSubtitle1 = "I'm Laïla, I'm 29 and I'm a software developer."
-    homeSubtitle2 = "I love coding, learning and kicking patriarchy."
+    homeSubtitle1 = "I'm Laïla and I'm a software developer."
+    homeSubtitle2 = "I love coding, learning and eating cheesecakes."
     homeSubtitle3 = "I write thoughts in this blog."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -81,7 +81,9 @@ url  = "https://www.stackoverflow.com/"
   [languages.fr]
     title = "Coucou !"
     subtitle = "Pensées et découvertes du monde du code aujourd'hui"
-    homeSubtitle = "Je suis Laïla, je suis une développeuse web vivant à Paris. J'aime coder, apprendre et les animaux mignons."
+    homeSubtitle1 = "Je suis Laïla et je suis développeuse."
+    homeSubtitle2 = "J'aime coder, apprendre et manger des cheesecakes."
+    homeSubtitle3 = "J'écris mes pensées dans ce blogue."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Lire plus d'articles"
