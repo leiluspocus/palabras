@@ -11,6 +11,7 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+disqusShortname = "palabras-1"
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
@@ -41,8 +42,6 @@ url  = "https://www.stackoverflow.com/"
 
   # Subtitle for home
   homeSubtitle = "Laïla ATRMOUH"
-
-  disqusShortname = "leiluspocus"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
