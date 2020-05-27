@@ -52,7 +52,7 @@ url  = "https://www.stackoverflow.com/"
   images = [""]
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
 [author]
   name = "Laïla ATRMOUH"
