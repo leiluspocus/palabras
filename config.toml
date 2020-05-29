@@ -28,11 +28,11 @@ url  = "https://github.com/leiluspocus"
 
 [[params.social]]
 name = "linkedin"
-url  = "https://www.linkedin.com/lailatrmouh"
+url  = "https://www.linkedin.com/in/lailatrmouh/"
 
 [[params.social]]
 name = "stackoverflow"
-url  = "https://www.stackoverflow.com/"
+url  = "https://stackoverflow.com/users/1704966/laila"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -49,7 +49,7 @@ url  = "https://www.stackoverflow.com/"
   images = [""]
   
   [params.portrait]
-    path = "https://placekitten.com/300/300"
+    path = "https://avatars0.githubusercontent.com/u/1473845?s=400&v=4"
     alt = "Cats"
     
   # Default theme "light" or "dark"
@@ -69,7 +69,7 @@ url  = "https://www.stackoverflow.com/"
     subtitle = "Thoughts and discoveries about our technical world today"
     homeSubtitle1 = "I'm Laïla and I'm a software developer."
     homeSubtitle2 = "I love coding, learning and eating cheesecakes."
-    homeSubtitle3 = "I write thoughts in this blog."
+    otra = "online"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -79,11 +79,11 @@ url  = "https://www.stackoverflow.com/"
       logoHomeLink = "/" 
 
   [languages.fr]
-    title = "Coucou !"
+    title = "Salut !"
     subtitle = "Pensées et découvertes du monde du code aujourd'hui"
     homeSubtitle1 = "Je suis Laïla et je suis développeuse."
     homeSubtitle2 = "J'aime coder, apprendre et manger des cheesecakes."
-    homeSubtitle3 = "J'écris mes pensées dans ce blogue."
+    otra = "sur les Internets"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Lire plus d'articles"
