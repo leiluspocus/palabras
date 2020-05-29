@@ -6,7 +6,7 @@ paginate     = 10
 canonifyURLs = true
 enableEmoji     = true
 
-# googleAnalytics = ""
+googleAnalytics = "UA-47952004-1"
 disableRSS     = false
 disableSitemap = false
 disable404     = false
