@@ -12,6 +12,7 @@ tags:
 I redesigned my blog. Again.
 
 I've been blogging for 8 years so far and boy, this blog has travelled. 
+
 - Simple HTML files hosted in a French server (Free) 👵🏼
 - Wordpress hosted by 1&1
 - Jekyll hosted on Github Pages
@@ -24,6 +25,7 @@ Today, this blog is powered by Hugo and hosted by Netlify. And, of course, even 
 Inspired by a popular series of articles in my previous company [trouvailles de madmoiZelle](https://www.madmoizelle.com/rubriques/pour-rire/trouvailles-dinternet-pour-bien-commencer-la-semaine), I decided to write an article every month, listing all the discoveries I made. And also some random stuff that makes me laugh online. 
 
 Why ? 
+
 1. Easier to find links on my blog than on my twitter feed
 2. Keeps me motivated to write
 3. Helps me improve my english  

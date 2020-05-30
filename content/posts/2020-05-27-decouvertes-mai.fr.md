@@ -12,6 +12,7 @@ tags:
 En mai, j'ai (encore) refait mon blog. 
 
 Ce blog en a connu des vertes et des pas mûres en 8 ans! 
+
 - Simple fichier HTML hébergé sur un serveur Free 👵🏼
 - Passage sur Wordpress hébergé chez 1&1
 - Migration vers Jekyll hébergé sur Github Pages pour jouer avec Ruby
@@ -24,6 +25,7 @@ Aujourd'hui, ce blog est propulsé par Hugo et hébergé chez Netlify. Et évide
 Inspirée des [trouvailles de madmoiZelle](https://www.madmoizelle.com/rubriques/pour-rire/trouvailles-dinternet-pour-bien-commencer-la-semaine), j'ai décidé d'écrire un article par mois listant mes trouvailles de dev sur les Internets (avec peut-être quelques blagounettes au passage).
 
 Pourquoi ? 
+
 1. C'est plus pratique de fouiller sur mon blog pour retrouver des bons liens que de fouiller sur mon fil Twitter x)
 2. Ca me motive à écrire
 
