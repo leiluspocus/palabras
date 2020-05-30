@@ -1,3 +1,16 @@
+<style>
+    .lang {
+        margin-left: 18px;
+        border-left: 1px solid #a9a9b3;
+        padding-left: 18px;
+    }
+    
+    @media screen and (min-width: 685px) {
+        .lang {
+            margin-right: 0;
+        }
+    }
+</style>
 <header class="header">
     <span class="header__inner">
         {{ partial "logo.html" . }}
@@ -15,7 +28,7 @@
             <span class="theme-toggle unselectable">{{ partial "theme-icon.html" . }}</span>
             {{ if .IsTranslated }}
                 {{ range .Translations }}
-                    <span style="margin-left: 18px;border-left: 1px solid #a9a9b3;padding-left: 18px;"><a href="{{ .Permalink }}">{{ .Lang }}</a> </span>
+                    <span class="lang"><a href="{{ .Permalink }}">{{ .Lang }}</a> </span>
                 {{ end }}
             {{ end }}
         </span>
