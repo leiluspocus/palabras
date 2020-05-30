@@ -51,7 +51,7 @@ Comme je disais, j'ai refait pour la n-ième fois le blog et je suis conquise pa
 Les p'tits plus qui me font kiffer: 
 
 - La _rapidité_ de l'environnement local
-- Les shortcodes disponibles dans les markdown
+- Les shortcodes utilisables dans les markdown (pour intégrer un tweet, une vidéo Youtube)
 - La facilité d'overrider le thème installé
 
 ## DevTools 
