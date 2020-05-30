@@ -10,6 +10,10 @@ tags:
   - wordpress
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 WordPress is an extremely popular framework, which makes it easier to hack. Here are couple of ways to increase the security of your WordPress installation :
 
 * Hide your admin back-end to a list of whitelisted IPs through server rules on Apache / Nginx

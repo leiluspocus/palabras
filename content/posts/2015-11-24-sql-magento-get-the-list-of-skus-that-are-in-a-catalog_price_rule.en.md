@@ -9,6 +9,10 @@ tags:
   - magento
   - sql
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 The parameter « rule_id » can be viewed in the URL when you are editing the catalog price rule.
 
 ```SQL 

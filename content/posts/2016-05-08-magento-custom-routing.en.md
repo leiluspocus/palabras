@@ -8,6 +8,10 @@ category: Magento
 tags:
   - awesome tutorials
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 If you implemented several store views in your Magento shop (let&rsquo;s say for French and English), if you implement a new router, he will be associated to this views.
 
 <span style="text-decoration: underline;">Ex</span>: In Magento&rsquo;s default behavior,

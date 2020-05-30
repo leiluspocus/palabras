@@ -10,6 +10,9 @@ tags:
   - ux design
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Je ne m&rsquo;inscris généralement pas aux infolettres mais celle-ci est particulièrement intéressante! GoodUi propose une infolettre envoyée deux fois par mois.  Son auteur, Jakub Linowski, parle d&rsquo;optimisation d&rsquo;interface utilisateur, la meilleure façon de concevoir des formulaires de type opt-out &#8230; Je ne regrette pas de m&rsquo;y être inscrite !
 
 Petit bémol qui peut en fruster certains: l&rsquo;infolettre est en anglais !

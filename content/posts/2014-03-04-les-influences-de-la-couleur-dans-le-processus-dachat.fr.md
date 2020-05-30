@@ -9,6 +9,9 @@ tags:
   - ux design
 ---
 
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Voici un <a href="http://ludismedia.com/couleurs-influence-intention-achat">billet de blog  </a>assez intéressant sur les couleurs et leur influence dans le processus d&rsquo;achat posté par une bloggeuse de Ludis Media, une agence web localisée à Sherbrooke.
 
 Enjoy ! 

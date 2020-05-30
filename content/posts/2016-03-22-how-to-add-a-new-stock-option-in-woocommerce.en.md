@@ -10,6 +10,10 @@ tags:
   - jquery
   - woocommerce
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Sometimes, clients can come up with some pretty creative ways to handle their inventory &#8230; It was the case for me with a customer who was using WooCommerce.
 
 I had to add a third option but the stock options was not customizable. I ended up deleting the native dropdown of stock options and I implemented a custom field.

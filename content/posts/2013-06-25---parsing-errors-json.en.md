@@ -11,6 +11,9 @@ tags:
   - parsing objects
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Parsing JSON with the jQuery method ```$.parseJSON``` can be tricky to debug, specially when you&rsquo;re using a mobile device. 
 
 Here is a list of errors I encoutered, and the reason why they were raised.

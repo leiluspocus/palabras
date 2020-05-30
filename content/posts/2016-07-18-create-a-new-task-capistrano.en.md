@@ -9,6 +9,11 @@ tags:
   - capistrano
   - devops
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 Capistrano can be a great tool to run a task on several servers. It can be a task like uploading a maintenance page or deleting some logs :
 ```ruby 
 task :NAME_OF_YOUR_TASK do

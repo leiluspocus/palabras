@@ -10,6 +10,8 @@ tags:
   - iphone
 ---
 
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Voici une nouvelle application que j&rsquo;ai trouvé sur l&rsquo;AppStore il y a quelques mois et qui m&rsquo;a rendu complètement accro, Hatchi.
 
 Le principe est simple, vous évoluez votre hatchi, et selon la manière dont vous vous en occupez, il se dirige vers une branche d&rsquo;évolution différente ! Il a des phases différentes dans sa vie: baby, child, teenager, et adult.

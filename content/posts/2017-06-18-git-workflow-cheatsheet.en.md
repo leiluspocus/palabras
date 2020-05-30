@@ -10,6 +10,10 @@ tags:
   - git
   - workflow
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I follow a pretty regular git workflow on my projects:
 
 * All my features are derived from a master branch

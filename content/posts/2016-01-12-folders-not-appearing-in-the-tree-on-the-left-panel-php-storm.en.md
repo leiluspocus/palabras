@@ -10,6 +10,9 @@ tags:
   - phpstorm
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 At some point, my folders were not appearing anymore in my Tree on the left Panel like this fellow below.
 
 https://devnet.jetbrains.com/message/5448105?tstart=0

@@ -10,6 +10,9 @@ tags:
   - git
   - github
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Nous sommes souvent amenés à l&rsquo;UTC à travailler sur de petits projets en groupe. Pour avoir effectué du développement en groupe sans gestion de versonning, le travail devient vite compliqué au moment où l&rsquo;on réunit les sources. GitHub serait une solution puisqu&rsquo;il s&rsquo;agit d&rsquo;un service hébergeant à distance les dépôts centralisés (sur lesquels peuvent travailler plusieurs ressources).
 
   * <a href="http://www.sans-savoir.net/2008/05/07/github-vos-depots-distants-pour-git/" target="_blank">Présentation de Git / GitHub</a>

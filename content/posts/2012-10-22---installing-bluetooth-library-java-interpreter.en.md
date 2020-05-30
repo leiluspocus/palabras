@@ -11,6 +11,9 @@ tags:
   - java
 ---
 
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
+
 When I was installing the bluetooth library, i was told to type the directory where Java Interpreter was installed.
 
 Run the command: 

@@ -9,6 +9,9 @@ tags:
   - prototype
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I had to deal with Prototype while working with Magento. Here&rsquo;s a little cheat sheet of some very simple stuff I had to do.
 
 ## Make an Ajax Request with parameters

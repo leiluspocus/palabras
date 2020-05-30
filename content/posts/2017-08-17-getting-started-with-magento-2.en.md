@@ -9,6 +9,9 @@ tags:
   - magento
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 When I started working with Magento 1, I was frightened by the quantity of files and modules. The clients I worked for had several modules and a lot of things needed to be refactored, both projects were on Magento 1.
 
 Here are some « baby steps » I followed when I began with Magento 1. I would like to remember them when I will get started on a Magento 2 project 🙂

@@ -9,6 +9,10 @@ tags:
   - cheat sheet
   - mongo
 ---
+
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 ## Démarrer Mongo
 
 ```mongod```

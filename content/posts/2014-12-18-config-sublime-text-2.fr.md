@@ -11,6 +11,9 @@ tags:
   - sublime text
 ---
 
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 #### Comment installer des packages dans Sublime Text 2 ?
 
 Il faut utiliser le package control. Plus de détails ici: <https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-package-control/>

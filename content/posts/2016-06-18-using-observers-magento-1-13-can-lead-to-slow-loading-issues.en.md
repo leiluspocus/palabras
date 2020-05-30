@@ -11,6 +11,9 @@ tags:
   - performance
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 For one of the Magento projects I worked on, I had to implement a new action in the dropdown list of actions in the back-end.
 
 I tried the Observer option described in this tutorial: 

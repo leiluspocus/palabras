@@ -10,4 +10,7 @@ tags:
   - git
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 [This article](https://nathanhoad.net/how-to-meld-for-git-diffs-in-ubuntu-hardy) explains very well how to use Meld as an external viewer for « git diff » on Ubuntu. Once done, you won&rsquo;t have any valid excuses to escape code reviews 😉

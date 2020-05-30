@@ -11,6 +11,10 @@ tags:
   - "utc"
 description: ""
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
+
 Cela fait quelques temps que je pense à rédiger ce post, afin de faire un retour d&rsquo;expérience sur mes choix d&rsquo;orientation.
 
 J&rsquo;ai été intéressée par l&rsquo;univers informatique depuis mes années collège pendant lesquelles j&rsquo;ai appris de manière auto-didacte le XHTML/CSS. C&rsquo;est donc naturellement que j&rsquo;ai souhaité aller plus loin dans le développement web. J&rsquo;ai choisi de poursuivre mes études dans l&rsquo;informatique de manière générale car je ne savais pas vers quel domaine précis m&rsquo;orienter.

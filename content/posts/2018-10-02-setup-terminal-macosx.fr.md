@@ -10,6 +10,9 @@ tags:
   - Command line interface
 ---
 
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Juste un petit article pour mémoriser le setup de mon terminal sur mon ordi perso sous Mac OSX.
 
 ## Terminal

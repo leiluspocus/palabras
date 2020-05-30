@@ -11,6 +11,9 @@ tags:
   - python
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Here are couple of useful commands / tutorials (in french sorry!) to get started easily with Django.
 
 **Create a project**

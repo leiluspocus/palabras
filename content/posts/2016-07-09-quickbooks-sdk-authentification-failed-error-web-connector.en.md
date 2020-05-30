@@ -10,6 +10,10 @@ tags:
   - quickbooks
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 I used [this SDK](https://github.com/consolibyte/quickbooks-php) to develop an API that connects directly to Quickbooks.
 
 I had this error once: Authentification failed when I tried to fetch data from the API. My identifiers were correct.

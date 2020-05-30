@@ -9,6 +9,10 @@ tags:
   - magento
   - php
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Not the cleanest but here&rsquo;s a quick solution to do a direct query on Magento. Might be faster than calling Magento&rsquo;s objects ? 
 
 ```php

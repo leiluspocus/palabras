@@ -9,6 +9,10 @@ tags:
   - javascript
   - tips
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I was looking for an equivalent of PHP&rsquo;s print_r to debug Javascript Objects and I found this very cool method:
 ```javascript
 JSON.stringify(whatever_obj);

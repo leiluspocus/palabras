@@ -9,6 +9,10 @@ tags:
   - node.js
   - sails
 ---
+
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Après mon HackDay sur Node.js, j&rsquo;ai eu quelques inquiétudes sur mes aptitudes à rapidement faire n&rsquo;importe quoi au niveau de la structure de mon application.
 
 Je me suis donc mise à la recherche d&rsquo;un framework sympa qui pourrait m&rsquo;aider à mieux structurer mon application Node.js : après une petite recherche, je suis tombée sur Sails et Meteor (qui fera aussi l&rsquo;objet d&rsquo;un HackDayz !).

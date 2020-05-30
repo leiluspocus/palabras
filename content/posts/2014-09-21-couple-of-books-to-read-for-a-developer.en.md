@@ -10,6 +10,9 @@ tags:
   - must-read
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Some co-workers recommended me some development books. I added comments in the This list will be updated and feel free to add your suggestions in the comments 🙂
 
   * [Lean In &#8211; Women, Work, and the Will to Lead](http://www.amazon.ca/Lean-In-Women-Work-Will/dp/0385349947) 

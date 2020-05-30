@@ -9,6 +9,9 @@ tags:
   - devops
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 1. Stop your vagrant machine
 
 ```shell

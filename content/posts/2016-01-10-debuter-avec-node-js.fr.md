@@ -10,6 +10,10 @@ tags:
   - javascript
   - nodejs
 ---
+
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 J&rsquo;ai profité de cet après-midi pluvieux pour me familiariser avec Node.js grâce à [l&rsquo;excellent cours de Mathieu Nebra sur Open Classrooms](https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js).
 
 Ce que je retiens de ces quelques heures de bachotage (pas encore poussé mon application) :

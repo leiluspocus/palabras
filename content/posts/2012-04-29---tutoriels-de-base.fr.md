@@ -10,6 +10,10 @@ tags:
   - "spring"
   - "ruby on rails"
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
+
 Voici une liste de tutoriels pour appréhender en surface certains languages. J&rsquo;ai suivi ceux sur Spring, RoR et développement iPhone, je continuerai à étoffer cette liste. 
 
 N&rsquo;hésitez pas à me faire parts de bons liens dans les commentaires 🙂

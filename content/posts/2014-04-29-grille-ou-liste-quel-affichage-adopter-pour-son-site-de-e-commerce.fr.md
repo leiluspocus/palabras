@@ -9,6 +9,10 @@ tags:
   - ui
   - ux design
 ---
+
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Vous souhaitez vendre des produits en ligne et hésitez sur la manière de présenter vos produits. Trois solutions sont envisageables: grille, liste ou hybride.
 
 **Grilles**

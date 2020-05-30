@@ -10,6 +10,10 @@ tags:
   - wordpress
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 ```php 
 add_filter( 'get_the_excerpt', 'my_new_excerpt' );
 function my_new_excerpt( $format )
