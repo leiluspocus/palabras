@@ -10,6 +10,9 @@ tags:
   - "pentaho"
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I had the following error in a « User Defined Java Class » step on Pentaho Data Integration.
 
 ```

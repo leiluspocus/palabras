@@ -5,11 +5,15 @@ description: "J'ai installé une boutique Prestashop from scratch dans le cadre 
 template: post
 slug: /fr/installer-une-boutique-prestashop/
 category: Snippets
+draft: true
 tags:
   - devops
   - prestashop
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
 
 # Gestion d&rsquo;environnements
 

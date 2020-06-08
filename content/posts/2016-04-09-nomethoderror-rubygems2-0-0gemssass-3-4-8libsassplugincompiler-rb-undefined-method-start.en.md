@@ -13,6 +13,9 @@ tags:
   - shell
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I had the weirdest issue when initializing my compass project for Greenie.
 
 ```shell kikoo:greenie leiluspocus$ sudo compass watch --trace

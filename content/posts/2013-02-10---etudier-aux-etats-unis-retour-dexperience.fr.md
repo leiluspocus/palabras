@@ -9,6 +9,10 @@ tags:
   - "semestre d'échange"
   - utc
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
+
 L&rsquo;UTC a un partenariat avec de nombreuses universités américaines. J&rsquo;ai pour ma part la chance d&rsquo;effectuer un semestre d&rsquo;échange avec l&rsquo;Université du Rhode Island au semestre d&rsquo;automne 2012. Le rythme de vie en campus américain est tout à fait comme dans les films, tout s&rsquo;y retrouve: les fraternités, les « dorms » (résidences étudiantes), la vie de campus, les vêtements officiels de l&rsquo;université, célébrer Thanksgiving et Halloween&#8230; Je pense qu&rsquo;il s&rsquo;agit vraiment d&rsquo;une expérience à vivre si on en a l&rsquo;occasion !
 
 La préparation de mon départ ayant été un peu laborieuse, je tenais à faire un retour d&rsquo;expérience de ma préparation de départ pour les futurs UTCéens (ou autres étudiants de manière plus générale) qui décideraient de partir.

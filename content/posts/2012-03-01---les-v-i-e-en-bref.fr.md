@@ -10,6 +10,9 @@ tags:
   - "utc"
 description: ""
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Voici des notes que j&rsquo;ai prises lors d&rsquo;une présentation du concept des V.I.E. à l&rsquo;UTC.
 
 Le Volontariat International en Entreprises (V.I.E), permet aux entreprises françaises de confier à un jeune (de 18 à 28 ans) une mission professionnelle à l’étranger durant une période modulable de 6 à 24 mois. Le V.I.E. facilite énormément le départ à l&rsquo;étranger: les frais de visa sont pris en charge par UbiFrance, la rémunération est intéressante (1200 à 3500€ selon le risque et le coût de la vie sur place), les frais de voyage, bagages et visas sont pris en charge par l&rsquo;entreprise et on a de surplus le droit à 2,5 de congés par mois travaillé ! 🙂

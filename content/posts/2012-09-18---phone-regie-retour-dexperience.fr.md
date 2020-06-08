@@ -9,6 +9,10 @@ tags:
   - "jobs étudiant"
 description: ""
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
+
 Un petit billet de blog pour vous partager mon expérience sur les fameux « jobs d&rsquo;été ». Parfois galère à trouver, j&rsquo;ai pour ma part effectué plusieurs missions pour Phone Régie.
 
 Phone Régie, c&rsquo;est quoi? Des jobs d&rsquo;hôtesse sur des temps partiels ou complets selon vos disponibilités. Le poste consiste à être à l&rsquo;accueil et à gérer les flux de visiteurs et/ou d&rsquo;appels et/ou de colis. Le salaire est divisé en trois parties: la base (smic) + prime d&rsquo;assiduité + prime d&rsquo;habillage (si vous portez un uniforme sur le site).

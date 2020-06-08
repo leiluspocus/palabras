@@ -9,6 +9,10 @@ tags:
   - javascript
   - jquery
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 For an old project, I had to implement a search tool in a static page. No option for me to use any server side language, I had to implement that search tool using Javascript / jQuery.
 
 The following function's purpose is to :

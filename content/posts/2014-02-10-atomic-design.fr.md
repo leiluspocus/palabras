@@ -10,6 +10,10 @@ tags:
   - principes
   - ux design
 ---
+
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 J&rsquo;ai trouvé cet excellent [article](http://bradfrostweb.com/blog/post/atomic-web-design/) écrit par [Brad Fost](https://twitter.com/brad_frost) qui explique les concepts de l&rsquo;atomic web design, en voici un petit résumé.
 
 L&rsquo;Atomic Design est une méthodologie de conception de systèmes. L&rsquo;idée est que chaque système est décomposable en plusieurs niveaux pouvant être imbriqués les uns avec les autres. On commencera la conception d&rsquo;un design par le plus petit niveau.

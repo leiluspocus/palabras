@@ -10,6 +10,9 @@ tags:
   - ux design
 ---
 
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Voici une petite bibliographie qui pourrait plaire aux novices qui s&rsquo;intéressent au domaine de l&rsquo;user experience. Je l&rsquo;ai dénichée à partir d&rsquo;un article de blog qui a recensé toutes les références faites à ces livres, créant le classement suivant:
 
 - Don't Make me think by Steve Krug

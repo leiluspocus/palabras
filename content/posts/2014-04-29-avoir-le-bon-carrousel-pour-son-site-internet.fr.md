@@ -8,6 +8,10 @@ category: Design
 tags:
   - ux design
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Les carrousels sont de bons éléments à placer dans une interface  graphique. Ils permettent de mettre en évidence des produits, des promotions et ainsi générer plus de ventes au sein du site.
 
 Mais quel est le carrousel efficace, qui aura le plus d&rsquo;impact chez l&rsquo;utilisateur ?

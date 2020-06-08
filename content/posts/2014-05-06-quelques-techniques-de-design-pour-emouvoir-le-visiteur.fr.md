@@ -9,6 +9,10 @@ tags:
   - ui
   - ux design
 ---
+
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 L&rsquo;influence de l&rsquo;interface sur les émotions ressenties par les utilisateurs durant leur navigation fait l&rsquo;objet de nombreuses recherches scientifiques. Par exemple, Éthier et al. (2008) ont démontré qu&rsquo;un utilisateur pouvait ressentir différentes émotions (telles que la peur, la joie, ou encore la frustation) durant un épisode d&rsquo;achat sur un site de commerce en ligne.
 
 L&rsquo;interface a donc un rôle non négligeable dans l&rsquo;état émotionnel de l&rsquo;utilisateur, cet article a pour but de vous présenter certaines techniques qui permettent d&rsquo;aller chercher des émotions chez l&rsquo;utilisateur, créant ainsi une expérience utilisateur qui fidélisera vos visiteurs.

@@ -11,6 +11,9 @@ tags:
   - sessions
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I had a bug once, the sessions kept expiring even though the token was still valid.
 
 I found out that CI\_sessions were refreshing the session\_id all the time. This was a database issue, be careful on the length of the columns in the database. The column that stored the session_id was too short and the token kept being re-generated since the old one couldn&rsquo;t be recognized.

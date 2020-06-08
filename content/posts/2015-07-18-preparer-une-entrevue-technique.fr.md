@@ -8,6 +8,10 @@ category: Rétroviseur
 tags:
   - entretien technique
 ---
+
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Préparer une entrevue technique nécessite un peu de bachotage ! Voici quelques liens que je trouve intéressants pour mieux se préparer :
 
   * <https://www.quora.com/What-are-the-most-important-questions-to-ask-a-full-stack-developer-during-an-interview-for-a-startup>

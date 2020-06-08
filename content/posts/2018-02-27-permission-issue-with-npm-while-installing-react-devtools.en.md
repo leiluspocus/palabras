@@ -9,6 +9,11 @@ tags:
   - react native
   - shell
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 I had this error once while trying to install the npm package react-devtools.
 
 ```shell 

@@ -10,6 +10,10 @@ tags:
   - php
   - wordpress
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I had a weird issue on a PHP script. I was returning an error 404 on a WordPress page the following way :
 
 ```php

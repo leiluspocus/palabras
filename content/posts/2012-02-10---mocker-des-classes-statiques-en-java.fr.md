@@ -10,6 +10,9 @@ tags:
   - "tdd"
 description: ""
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 De nombreux frameworks existent pour la réalisation de tests unitaires en Java, j&rsquo;ai notamment eu l&rsquo;occasion d&rsquo;utiliser JUnit, auquel on peut brancher des librairies facilitant la réalisation de mocks (objects fictifs servant à tester l&rsquo;application).
 
 J&rsquo;ai eu l&rsquo;occasion d&rsquo;utiliser [Mockito](http://mockito.org), assez pratique jusqu&rsquo;au moment où on doit mocker des classes statiques. [PowerMock](https://code.google.com/p/powermock/wiki/MockStatic) répond alors mieux à ce problème.

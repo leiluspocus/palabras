@@ -9,6 +9,10 @@ tags:
   - mac
   - mysql
 ---
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
+
 Ayant eu quelques problèmes lors de la mise en place d&rsquo;une base MySQL sur mon appli RoR (le gem install mysql2 provoquait une erreur), il suffit d&rsquo;utiliser l&rsquo;install disponible sur le site de MySQL: http://dev.mysql.com/downloads/mysql/5.1.html#macosx-dmg
   
 un sudo gem install mysql et you&rsquo;re all set 🙂

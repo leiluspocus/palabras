@@ -10,7 +10,7 @@ tags:
   - ux design
 ---
 
-> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour. 
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
 
 Quelle est la différence entre les mots UI et UX ? C&rsquo;est assez simple.
 

@@ -9,6 +9,9 @@ tags:
   - ux design
 ---
 
+
+> 👴 _Attention_ Cet article a quelques années et n'est peut-être plus à jour !
+
 Il n&rsquo;y a pas que le code qui se teste, une interface utilisateur aussi !
 
 Dans le cadre de ma maîtrise en commerce électronique, j&rsquo;ai été amenée à réaliser des tests d&rsquo;utilisabilité sur un site Internet. L&rsquo;expérience est vraiment fascinante car on réalise à quel point notre vision de développeur / stratège web est biaisée par rapport aux individus « normaux ».

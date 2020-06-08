@@ -9,6 +9,10 @@ tags:
   - symfony
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 While implementing the PrestaImage bundle in a Symfony 3 project, I had to include the assets of the bundle in my custom template file. I had first copy / paste manually the files but I thought it was not an easy / clean way to maintain these files.
 
 ### Install the assets in the public web folder

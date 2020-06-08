@@ -10,6 +10,10 @@ tags:
   - javascript
   - leaflet
 ---
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 I had this problem while working on Leaflet but I think it can be generalized to the issue of passing parameters to an event handler in Javascript. With the « bind » method of jQuery, you can pass parameters by using the data property of event (the object sent when an event is triggered) :
 ```javascript
 $(marker).bind("click", { parameter : its_value, parameter2: its_value }, function(event) {

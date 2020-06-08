@@ -9,4 +9,7 @@ tags:
   - javascript
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Here is a little function I did to convert an image into a base64 string (JavaScript only): http://pastebin.com/Dfb8TR4g

@@ -10,6 +10,9 @@ tags:
   - xml
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I had to indent an extremely large XML file today. I tried to use different IDE (PHPStorm, Sublime Text 3), however the file was way too large and it took a long time to process.
 
 Best way to do that is by using command line.

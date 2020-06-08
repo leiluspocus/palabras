@@ -10,6 +10,9 @@ tags:
   - sql
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Valid for Magento EE 1 only. The feature of store credits isn&rsquo;t native in CE edition.
 
 ```SQL 

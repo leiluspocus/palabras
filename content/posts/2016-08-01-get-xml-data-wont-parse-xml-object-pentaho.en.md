@@ -10,6 +10,9 @@ tags:
   - pentaho
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I had an issue with Pentaho today. It wasn&rsquo;t able to simply parse this XML that I was fetching from Amazon Marketplace Webservice.
 
 Here&rsquo;s the data I got :

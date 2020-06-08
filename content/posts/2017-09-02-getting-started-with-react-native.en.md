@@ -9,6 +9,10 @@ tags:
   - react native
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 It&rsquo;s pretty impressive how we can simply set up a development environment without XCode using Expo.
 
 Make sure you&rsquo;re using the right Node and NPM versions and double check that there are no missing packages while doing the npm install.

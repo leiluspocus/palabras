@@ -9,6 +9,10 @@ tags:
   - php
   - regexp
 ---
+
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 I wanted to extract characters after the last dash of a string. Regular expression are such a powerful tool to use in these cases. Here&rsquo;s the one I needed for my problem :
 
 ```(\w+)[^-]*$```

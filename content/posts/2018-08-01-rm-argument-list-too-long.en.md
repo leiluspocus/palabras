@@ -9,6 +9,10 @@ tags:
  - "command line interface"
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
+
 You can use this command :
 
 ```find . -name "*.log" -exec rm {} \;```

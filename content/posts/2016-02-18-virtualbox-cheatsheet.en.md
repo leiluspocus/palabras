@@ -8,6 +8,9 @@ tags:
   - DevOps
 ---
 
+
+> 👴 _Careful_ You're reading an old article ! Some links might be broken and content may be outdated
+
 Here is a couple of commands I&rsquo;ve used in a previous life while trying to resize a Vagrant machine.
 
 #### List the virtual disk images used by Virtual Box
