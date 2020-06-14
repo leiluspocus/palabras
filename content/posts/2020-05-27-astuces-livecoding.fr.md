@@ -36,6 +36,9 @@ Préparez donc votre "liste d'ingrédients" avant la session de live-coding. Dan
 
 _N'allez pas trop loin_ dans la préparation: il faut que votre audience puisse voir les éventuelles erreurs dans votre processus et comprendre comment est-ce que vous résolvez les problèmes. 
 
+{{< figure src="https://media.giphy.com/media/jxzEhHBMmH7tm/giphy.gif?center" title="" >}} 
+
+
 ## Verbaliser son processus de débugage
 
 Ce qui est particulièrement intéressant dans l'exercice du live coding, c'est qu'un développeur montre son processus de réflexion à une autre personne. 
@@ -47,13 +50,16 @@ Comme "on ne voit pas" son audience, il est facile de la perdre. Il est importan
 - Clarifier au début de la session qu'il faut pas hésiter à interrompre à tout moment
 - Demander régulièrement à l'audience si elle arrive bien à suivre (quitte à reprendre les étapes à partir du moment où elle a décroché)
 
-![Ça serait dommage que l'audience finisse comme ça](https://media.giphy.com/media/nURzWHsOTpDDa/giphy.gif)
+Ça serait dommage que l'audience finisse comme ça ⬇️
+
+{{< figure src="https://media.giphy.com/media/nURzWHsOTpDDa/giphy.gif?center" title="" >}} 
 
 ## Fixer le scope du live coding
 
 Au fur et à mesure des questions de l'audience, il est facile d'être tenté de retravailler son code en live pour répondre aux questions.  Il vaut mieux éviter de se disperser: vous risquez de perdre l'attention de votre audience.
 
-![L'histoire sans fin](https://media.giphy.com/media/mx9fVEF08tyne/giphy.gif)
+
+{{< figure src="https://media.giphy.com/media/mx9fVEF08tyne/giphy.gif?center" title="" >}} 
 
 Proposez plutôt une autre session durant laquelle vous répondrez à la nouvelle question posée. 
 
