@@ -31,17 +31,17 @@ Mes moments de procrastination sur Twitter m'ont fait découvrir le super portfo
 
 Il est possible de rendre un sélecteur CSS case insensitive.  
 
-[https://twitter.com/umaar/status/1275416501688942592?s=20](https://twitter.com/umaar/status/1275416501688942592?s=20) 
+{{<tweet 1275416501688942592>}}
 
 ## Javascript
 
 Il est possible d'observer le changement de taille d'un élément en Javascript via l'API ResizeObserver. 
 
-[https://twitter.com/addyosmani/status/1248899086490558465](https://twitter.com/addyosmani/status/1248899086490558465) 
+{{<tweet 1248899086490558465>}}
 
 Il est possible de grouper les messages en console via la fonction console.group. 
 
-[https://twitter.com/addyosmani/status/1191049744962842624](https://twitter.com/addyosmani/status/1191049744962842624)
+{{<tweet 1191049744962842624>}}
 
 Si vous ne suivez pas Addy Osmani, je vous le recommande vivement. Ses contenus sont toujours pertinents et applicables. 
 
@@ -61,7 +61,7 @@ J'ai aussi découvert comment lister les fichiers existants sur un volume Docker
 
 Le compte Twitter CuriositesJuridiques pour ses extraits ... insolites. 
 
-[https://twitter.com/CJuridiques/status/1278306074282557442](https://twitter.com/CJuridiques/status/1278306074282557442) 
+{{<tweet 1278306074282557442>}}
 
 C'est tout pour aujourd'hui ! 
 
