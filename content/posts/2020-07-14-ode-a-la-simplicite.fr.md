@@ -9,11 +9,8 @@ tags:
   - humeurs
 ---
 
-# Ode à la simplicité
 
-Created: Jun 23, 2020 12:45 PM
-
-*Disclaimer: Cet article sort de mes tripes, c'est mon premier article de ce type. Excusez les fautes d'orthographe.* 
+*Disclaimer: C'est le premier article de ce type que je sors. Excusez les fautes d'orthographe.* 
 
 Je déclare officiellement mon amour pour la simplicité. Et ce, dans tous les axes de ma vie. 
 
@@ -41,4 +38,4 @@ Pourquoi se passe-t-on de la simplicité aujourd'hui ? Pourquoi [vouer un culte 
 
 J'ai l'impression que c'est lié à l'effort à fournir pour la simplification. Derrière la simplicité se cache des efforts invisibles de clarification : comment optimiser ma parole pour qu'elle soit bien comprise de mon interlocuteur ? 
 
-En tout cas, je m'engage désormais à faire de mon mieux pour rester simple. Que ce soit dans mon code mais aussi dans ma vie.
+Je m'engage désormais à faire de mon mieux pour garder les choses *simples*. Que ce soit dans mon code mais aussi dans ma vie.
