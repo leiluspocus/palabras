@@ -4,6 +4,7 @@ date: 2020-07-05T20:14:34+02:00
 draft: false
 toc: false
 comments: true
+cover: "img/simplicite.jpeg"
 images: 
 tags:
   - humeurs
