@@ -10,6 +10,8 @@ tags:
   - hackdays
 ---
 
+
+
 [*Cover picture by Tomasz Sroka*](https://unsplash.com/photos/A4AJVLFu-Ug)
 
 Vercel (*anciennement Zeit*) est une plateforme JAMStack qui permet de déployer facilement des applications à partir d'un repository Git distant. Le service fourni est similaire à celui de Netlify, l'objectif est d'améliorer l'expérience de développement et faciliter les déploiements.
@@ -27,10 +29,6 @@ Avant toute chose, j'ai installé [vercel-cli](https://vercel.com/download), qui
 ## Création d'une base de données
 
 Il est possible de créer une petite base [MongoDB gratuite](http://cloud.mongodb.com/) sur le cloud, parfaite pour une sandbox.  Il est possible de créer des secrets sur Vercel très facilement à l'aide de la commande 
-
-```bash
-vercel secrets add "NOM_DU_SECRET VALEUR"
-```
 
 *On oublie pas les quotes !*
 
