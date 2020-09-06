@@ -7,7 +7,7 @@ comments: true
 cover: "img/clouds.jpeg"
 images: 
 tags:
-  - hack-days
+  - hackdays
 ---
 
 [*Cover picture by Tomasz Sroka*](https://unsplash.com/photos/A4AJVLFu-Ug)
