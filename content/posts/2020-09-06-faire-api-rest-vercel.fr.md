@@ -1,6 +1,6 @@
 ---
 title: "Faire une API Rest avec Vercel"
-date: 2020-09-06T20:13:37+02:00
+date: 2020-09-06T13:37:37+02:00
 draft: false
 toc: true
 comments: true
@@ -29,6 +29,10 @@ Avant toute chose, j'ai installé [vercel-cli](https://vercel.com/download), qui
 ## Création d'une base de données
 
 Il est possible de créer une petite base [MongoDB gratuite](http://cloud.mongodb.com/) sur le cloud, parfaite pour une sandbox.  Il est possible de créer des secrets sur Vercel très facilement à l'aide de la commande 
+
+```bash
+vercel secrets add "NOM_DU_SECRET VALEUR"
+```
 
 *On oublie pas les quotes !*
 
