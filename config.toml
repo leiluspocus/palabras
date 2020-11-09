@@ -79,7 +79,7 @@ url  = "https://stackoverflow.com/users/1704966/laila"
       logoHomeLink = "/" 
 
   [languages.fr]
-    title = "Salut !"
+    title = "palabras.dev"
     subtitle = "Pensées et découvertes du monde du code aujourd'hui"
     homeSubtitle1 = "Je suis Laïla et je suis développeuse."
     homeSubtitle2 = "J'aime coder, apprendre et profiter de la vie."
